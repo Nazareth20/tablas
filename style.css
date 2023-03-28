@@ -1,0 +1,11 @@
+.tamarindo img{
+    margin: auto;
+    display: block;
+    width: 150px;
+    height: 200px;
+    position: static;
+}
+h1{
+    color: blueviolet;
+    width: auto;
+}
